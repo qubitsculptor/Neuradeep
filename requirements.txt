@@ -1,0 +1,5 @@
+llama-index
+llama-cpp-python
+chromadb
+python-telegram-bot
+python-dotenv
