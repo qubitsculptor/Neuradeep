@@ -29,6 +29,8 @@ Neuradeep is built using a **Retrieval-Augmented Generation (RAG)** pipeline:
 3. **Answer Generation**  
    The retrieved context and the user’s question are sent to **Phi-2**, a lightweight LLM, which then generates a relevant and context-aware response.
 
+>NOTE: This bot is not hosted publicly 24/7. If you try interacting with it on Telegram and it doesn’t respond, it's likely because the server is not currently running.
+To use the bot yourself, you’ll need to clone this repo and run it locally or deploy it to a hosting platform.
 ---
 
 ## Repository
